@@ -1,0 +1,9 @@
+*.pyc
+.ipynb_checkpoints
+__pycache__
+ghostdriver.log
+.coverage
+.DS_Store
+
+*.vscode
+*.pytest_cache
